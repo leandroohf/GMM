@@ -1,7 +1,9 @@
 
 This is *WIP*. These are my notes about Gaussian Mixture Models and EM.
 
-Please, visit notebook: [[file:.//intro_to_gmm_&_em.ipynb][Gaussian Mixture Models]]
+Please, visit notebook:  [[file:.//intro_to_gmm_&_em.html][Gaussian Mixture Models]] (html)
+
+Or the notebook is  [[file:.//intro_to_gmm_&_em.ipynb][here]].
 
 * Explanation about GMM n EM algorithm
 

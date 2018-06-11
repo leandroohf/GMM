@@ -1,0 +1,29 @@
+
+This is **WIP*. This are my notes about Gaussian  Mixture Models and EM.
+
+Please visiti notebook: [[file:intro_to_gmm_&_em.ipynb][Gaussian Mixture Models]]
+
+* Explanation about GMM n EM algorithm
+
+
+  Shameless stole from: 
+  1. https://github.com/llSourcell/Gaussian_Mixture_Models
+  2. https://github.com/brianspiering/gaussian_mixture_models
+  3. https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html
+  4. https://github.com/jakevdp/PythonDataScienceHandbook
+     
+  See video: 
+  1. https://www.youtube.com/watch?v=JNlEIEwe-Cg
+
+  The code is broken
+
+* When to use or apply
+
+  You want to clusterize data (unsupervised learn)
+  
+* Simple explanation
+
+  Ex: The case of speaker recognition
+
+  * One GMM per speaker (those are my models)
+  * GMM gives you the probability of that MFCC belongs to the speaker

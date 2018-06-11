@@ -1,10 +1,9 @@
 
-This is **WIP*. This are my notes about Gaussian  Mixture Models and EM.
+This is **WIP**. These are my notes about Gaussian Mixture Models and EM.
 
-Please visiti notebook: [[file:.//intro_to_gmm_&_em.ipynb][Gaussian Mixture Models]]
+Please, visit notebook: [[file:.//intro_to_gmm_&_em.ipynb][Gaussian Mixture Models]]
 
 * Explanation about GMM n EM algorithm
-
 
   Shameless stolen/inspired from: 
   1. https://github.com/llSourcell/Gaussian_Mixture_Models

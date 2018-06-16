@@ -14,7 +14,6 @@ Please, visit notebook:  [[file:.//intro_to_gmm_&_em.ipynb][Gaussian Mixture Mod
   See video: 
   1. https://www.youtube.com/watch?v=JNlEIEwe-Cg
 
-
 * Notes
 
 The author believes that share code and knowledge is awesome.  Feel

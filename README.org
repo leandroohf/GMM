@@ -3,7 +3,7 @@ These are my notes about Gaussian Mixture Models and EM.
 
 Please, visit notebook:  [[file:.//intro_to_gmm_&_em.ipynb][Gaussian Mixture Models]]
 
-* Explanation about GMM n EM algorithm
+* Explanation about GMM and EM algorithm
 
   Shameless stolen/inspired from: 
   1. https://github.com/llSourcell/Gaussian_Mixture_Models
